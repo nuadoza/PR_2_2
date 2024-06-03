@@ -1,0 +1,33 @@
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.exe.config
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.exe
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.pdb
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.AssemblyReference.cache
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2._2_РОМА.Form1.resources
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2._2_РОМА.Form2.resources
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2._2_РОМА.Properties.Resources.resources
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.GenerateResource.cache
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2.2_РОМА.exe
+D:\Users\1213-9\Downloads\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2.2_РОМА.pdb
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.AssemblyReference.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR._2_РОМА.Form1.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR._2_РОМА.Form2.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2._2_РОМА.Properties.Resources.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.GenerateResource.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2.2_РОМА.exe
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2.2_РОМА.pdb
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.exe.config
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.exe
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.pdb
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.exe.config
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.exe
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\bin\Debug\ПР2.2_РОМА.pdb
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR._2_РОМА.Form1.resources
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR._2_РОМА.Form2.resources
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2._2_РОМА.Properties.Resources.resources
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\PR_2.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2.2_РОМА.exe
+C:\Users\Admin\Downloads\PR_2.2-main\RAZRABOTKA_2.2-main (1)\RAZRABOTKA_2.2-main\ПР2.2_РОМА\obj\Debug\ПР2.2_РОМА.pdb
